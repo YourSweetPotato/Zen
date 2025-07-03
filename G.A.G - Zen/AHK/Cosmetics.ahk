@@ -1,0 +1,2 @@
+﻿SendInput "b"
+ExitApp
